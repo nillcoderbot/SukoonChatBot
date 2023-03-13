@@ -15,7 +15,7 @@
 <p align="center"><a href="https://t.me/Dark_Queen_robot"> <img src="https://img.shields.io/badge/CHECK-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
 
 ## ʀᴇᴘᴏ sᴛᴀᴛs
-<a href="https://github.com/Itzvenomo/ChatBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Itzvenomo &repo=ChatBot&theme=chartreuse-dark"></a>
+<a href="https://github.com/Itzvenomo/ChatBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Itzvenomo&repo=ChatBot&theme=chartreuse-dark"></a>
 
 ### sᴜᴘᴘᴏʀᴛ
 <p align="center"><a href="https://t.me/Its_Venom_family"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
