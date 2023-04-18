@@ -1,7 +1,7 @@
 {
     "name": "𝗦𝗨𝗞𝗢𝗢𝗡 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧",   
     "logo": "https://te.legra.ph/file/1967a714b5e6d491487ed.jpg", 
-    "keywords": 
+    "keywords": [
     "python3",
     "telegram",
     "bot",
@@ -9,7 +9,8 @@
     "telegram-chat-bot",
     "Chatbot",
     "telegram-bot",
-    "pyrogram",
+    "pyrogram"
+    ],
     "env": {
         "BOT_TOKEN": {
             "description": "telegram bot token here",
