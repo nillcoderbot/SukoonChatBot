@@ -1,5 +1,5 @@
 #Don't remove This Line From Here. @NILLCODERBOT | @NILLCODERBOT
-#Github :- @NILLCODERB
+#Github :- @NILLCODERBOT
 import requests
 import random
 import os
@@ -436,7 +436,7 @@ async def restart(client, m: Message):
 async def get_st(_, msg: Message):
     users = len(await get_served_users())
     chats = len(await get_served_chats())
-    await msg.reply_photo(photo=",
+    await msg.reply_photo(photo="https://te.legra.ph/file/1967a714b5e6d491487ed.jpg",
                           caption=f"""ᴛᴏᴛᴀʟ sᴛᴀᴛs ᴏғ {BOT_NAME}
           ➻ **ᴄʜᴀᴛs :** {chats}
           ➻ **ᴜsᴇʀs :** {users}"""
