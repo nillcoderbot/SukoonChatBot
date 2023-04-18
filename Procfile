@@ -1,1 +1,1 @@
-Queen: python3 main.py
+NILLCODERBOT: python3 main.py
