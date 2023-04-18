@@ -1,5 +1,5 @@
-#Don't remove This Line From Here. @Itzvenomo | @Itzvenomo
-#Github :- @Itzvenomo
+#Don't remove This Line From Here. @NILLCODERBOT | @NILLCODERBOT
+#Github :- @NILLCODERB
 import requests
 import random
 import os
@@ -35,15 +35,15 @@ START_IMG7 = os.environ.get("START_IMG7")
 START_IMG8 = os.environ.get("START_IMG8")
 START_IMG9 = os.environ.get("START_IMG9")
 START_IMG10 = os.environ.get("START_IMG10")
-STKR = os.environ.get("STKR", "CAACAgQAAxkBAALRimNZXTpB8mhQbnAAAWAvCV4Ya1uHFQACnxEAAqbxcR57wYUDyflSISoE")
-STKR1 = os.environ.get("STKR1", "CAACAgQAAxkBAALRi2NZXUgjZCT775L5Nr0XrLbQ6XIpAAK_EQACpvFxHq2xh5JRVJNrKgQ")
-STKR2 = os.environ.get("STKR2", "CAACAgQAAxkBAALRjGNZXUs6YPggISBdtg4nXaU0vjNzAALqCwACbCIRU61ZQKi3F88DKgQ")
-STKR3 = os.environ.get("STKR3", "CAACAgQAAxkBAALRjWNZXUvETcfHR2Yi9ftTQLLP2uD8AAIVDAAC1SMQU-QrCHEcbz8rKgQ")
-STKR4 = os.environ.get("STKR4", "CAACAgQAAxkBAALRjmNZXWw-WbZ_iAg-4UGixa7WSz3RAAK9CQACelwRUzpqVCTmeOrfKgQ")
-STKR5 = os.environ.get("STKR5", "CAACAgQAAxkBAALRj2NZXXJw6Pw7TJgYQStoq4u2oYpmAAKgEQACpvFxHk7lQeNrq3NMKgQ")
-STKR6 = os.environ.get("STKR6", "CAACAgQAAxkBAALRkGNZXYmAXYRR4lmCxHGPgG012Vm0AAJiFwACpvFxHuCsJc_EpuEVKgQ")
-STKR7 = os.environ.get("STKR7", "CAACAgQAAxkBAALRkWNZXYyCvkfI4d1lK0AEMkG0GdUmAAJmFwACpvFxHnvJHTM8_o9XKgQ")
-STKR8 = os.environ.get("STKR8", "CAACAgQAAxkBAALRkmNZXZg1zuakmgkPf2lfXPXi4bZaAALACgACQUGpUjAAAYL3e09XCyoE")
+STKR = os.environ.get("STKR", "CAACAgUAAxkBAAOTZD5uouYEi2oYsBrYq4_jk9agIP4AAm8JAAKZyfBVKO4HNRUHNiYvBA")
+STKR1 = os.environ.get("STKR1", "CAACAgUAAxkBAAIBCGQ-cOGKFziADjnOeqdp9VE7R7UIAALxCgACqoT4Vbgcj2R1S-_MLwQ")
+STKR2 = os.environ.get("STKR2", "CAACAgUAAxkBAAIBCWQ-cOENb22M1DDnfy7RLwFGAtLvAAIYCQACMqnwVTdYrWFbI7ZgLwQ")
+STKR3 = os.environ.get("STKR3", "CAACAgUAAxkBAAIBCmQ-cOKZRFN7hRYclWHq5lA-HfIXAALaCAACgefxVR10Fa8kA0vSLwQ")
+STKR4 = os.environ.get("STKR4", "CAACAgUAAxkBAAIBDGQ-cOL3KoZL-Zi8WgUvSx69ve1aAAK-CQACBijxVfA1XXOr8O_SLwQ")
+STKR5 = os.environ.get("STKR5", "CAACAgUAAxkBAAIBTmQ-chur2_7FVFcybvAPpcuxujJ8AAKsDQACvevwVcw_I7XTC0SaLwQ")
+STKR6 = os.environ.get("STKR6", "CAACAgUAAxkBAAIBTWQ-choRyf_DBgGXwUOhiY2ggSYzAAIdCQACriT4VZqturazsMSLLwQ")
+STKR7 = os.environ.get("STKR7", "CAACAgUAAxkBAAIBRWQ-chetCrNmPju-Bu2t31xwmpyZAAJvCQACmcnwVSjuBzUVBzYmLwQ")
+STKR8 = os.environ.get("STKR8", "CAACAgUAAxkBAAIBS2Q-chqCHBWb9oexFinVpY64W_BeAALxCgACqoT4Vbgcj2R1S-_MLwQ")
 
 bot = Client(
     "QueenBot" ,
@@ -283,7 +283,7 @@ ABOUT_BTN = [
            InlineKeyboardButton(text="✨ ʙᴀᴄᴋ ✨", callback_data="BACK"),
       ],
 ]
-SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/Itzvenomo/ChatBot)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
+SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs [OWNER](https://t.me/nillcoder)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
 
 ABOUT_READ = f"""
 **➻ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) ɪs ᴀɴ ᴀɪ ʙᴀsᴇᴅ ᴄʜᴀᴛ-ʙᴏᴛ.**
@@ -436,7 +436,7 @@ async def restart(client, m: Message):
 async def get_st(_, msg: Message):
     users = len(await get_served_users())
     chats = len(await get_served_chats())
-    await msg.reply_photo(photo="https://te.legra.ph/file/cb36a32cea60ad9b12a31.jpg",
+    await msg.reply_photo(photo=",
                           caption=f"""ᴛᴏᴛᴀʟ sᴛᴀᴛs ᴏғ {BOT_NAME}
           ➻ **ᴄʜᴀᴛs :** {chats}
           ➻ **ᴜsᴇʀs :** {users}"""
