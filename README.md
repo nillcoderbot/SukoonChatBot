@@ -25,4 +25,4 @@
 - [ᴠᴇɴᴏᴍ](https://github.com/nillcoderbot)
 
 
-<img src="https://te.legra.ph/file/f3e07326d0078e5b5efa0.jpg">
+<img src="https://te.legra.ph/file/1967a714b5e6d491487ed.jpg">
