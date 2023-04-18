@@ -9,8 +9,7 @@
     "telegram-chat-bot",
     "Chatbot",
     "telegram-bot",
-    "pyrogram"
-    ],
+    "pyrogram",
     "env": {
         "BOT_TOKEN": {
             "description": "telegram bot token here",
